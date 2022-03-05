@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/javaidbhai-project/static/css/main.f80e06cd.css",
+    "main.js": "/javaidbhai-project/static/js/main.e942648d.js",
+    "index.html": "/javaidbhai-project/index.html",
+    "main.f80e06cd.css.map": "/javaidbhai-project/static/css/main.f80e06cd.css.map",
+    "main.e942648d.js.map": "/javaidbhai-project/static/js/main.e942648d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f80e06cd.css",
+    "static/js/main.e942648d.js"
+  ]
+}
